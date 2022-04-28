@@ -1,4 +1,3 @@
-# docs
 <h1>Document</h1>
 
 <p>this document contains information related web development, programming logic, codding pattern which helps developer help develop web applicaton of other software </p>
