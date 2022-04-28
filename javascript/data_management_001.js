@@ -1,4 +1,3 @@
-<script>
 
     const data = [
         {
@@ -216,4 +215,3 @@
         }
     }
 
-</script>
